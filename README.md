@@ -12,9 +12,6 @@ The assets available in this project are:
 
 This project requires the following [compute environments](https://docs.dominodatalab.com/en/latest/user_guide/f51038/environments/) to be present. Please ensure the "Automatically make compatible with Domino" checkbox is selected while creating the environment.
 
-### Hardware Requirements
-You also need to make sure that the hardware tier running the notebook or the fine-tuning script has sufficient resources. A GPU with >=16GB of VRAM is recommended. This project was tested on a `V100` with **16GB** VRAM. Also note that the model binary occupies ~ **28GB** on disc so please provision your workspace volume accordingly.
-
 ### Environment Requirements
 
 **Environment Base**
