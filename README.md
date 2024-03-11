@@ -49,4 +49,4 @@ Please change the value in `start` according to your Domino version.
 
 ### Hardware Requirements
 
-This project will run on any CPU and RAM (> 8GB prefered). A hardware tier such as a `small-k8s` on Domino will work well too for this project
+This project will run on any CPU and RAM (> 8GB prefered). A hardware tier such as a `small` or `small-k8s` on Domino will work well too for this project
