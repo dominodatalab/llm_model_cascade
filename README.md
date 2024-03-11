@@ -7,6 +7,8 @@ The assets available in this project are:
 
 *model_cascade.ipynb* - This notebook includes all the code necessary to run the methods detailed in the paper mentioned above.
 
+Additionally, an accompanying blog post about MoT is available at [Navigating Cost-Complexity: Mixture of Thought LLM Cascades Illuminate a Path to Efficient Large Language Model Deployment](https://towardsdatascience.com/navigating-cost-complexity-mixture-of-thought-llm-cascades-illuminate-a-path-to-efficient-large-23291d1eda41)
+
 
 ## Set up instructions
 
