@@ -37,6 +37,7 @@
     "name": "Apache 2.0",
     "link": "https://github.com/dominodatalab/aihub_llm_model_cascade#license"
   },
+  "created":"2024-03-11T20:22:52.00Z",
   "data": {
     "name": "This project does not use any external datasets and is self contained. The prompt(s) that are used are available in the notebook",
     "link": null
