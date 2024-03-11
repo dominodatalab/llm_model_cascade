@@ -9,6 +9,13 @@ The assets available in this project are:
 
 Additionally, an accompanying blog post about MoT is available at [Navigating Cost-Complexity: Mixture of Thought LLM Cascades Illuminate a Path to Efficient Large Language Model Deployment](https://towardsdatascience.com/navigating-cost-complexity-mixture-of-thought-llm-cascades-illuminate-a-path-to-efficient-large-23291d1eda41)
 
+## License
+This template is licensed under Apache 2.0 and contains the following components: 
+* langchain 0.1.8 [MIT License (MIT)](https://github.com/langchain-ai/langchain/blob/34284c25d4de4352bede97724fc1ef0bf10460bb/LICENSE)
+* langchain-openai [MIT License (MIT)](https://github.com/langchain-ai/langchain/blob/34284c25d4de4352bede97724fc1ef0bf10460bb/LICENSE)
+* langchain-experimental [MIT License (MIT)](https://github.com/langchain-ai/langchain/blob/34284c25d4de4352bede97724fc1ef0bf10460bb/LICENSE)
+* sentence-transformers [Apache License 2.0](https://github.com/UKPLab/sentence-transformers/blob/66e0ee30843dd411c64f37f65447bb38c7bf857a/LICENSE)
+* ipywidgets [BSD 3-Clause "New" or "Revised" License](https://github.com/jupyter-widgets/ipywidgets/blob/b78de43e12ff26e4aa16e6e4c6844a7c82a8ee1c/LICENSE)
 
 ## Set up instructions
 
