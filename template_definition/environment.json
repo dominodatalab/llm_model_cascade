@@ -1,0 +1,6 @@
+{
+  "title": "Base environment for LLM Model cascade and MoT",
+  "id": "Base environment for LLM Model cascade and MoT",
+  "environmentBaseImage": "quay.io/domino/compute-environment-images:ubuntu20-py3.9-r4.3-domino5.9-standard",
+  "description": "This environment is a Domino Standard Environment with Python 3.9"
+}
