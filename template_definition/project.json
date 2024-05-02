@@ -56,7 +56,7 @@
   },
   "environmentKey": null,
   "environmentReqs": {
-    "value": "You need to use Python 3.9 and install anomalib and openvino. See template README for details.",
+    "value": "See template README for details.",
     "link": "https://github.com/dominodatalab/aihub_llm_model_cascade"
   },
   "importedRepositories": null,
